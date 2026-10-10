@@ -4,7 +4,7 @@ Telegram bot that checks suspicious messages, screenshots, voice notes and UPI I
 for scam red flags and tells you if they were reported before. Built for Hackdays 2.0.
 
 ## Live Demo
-t.me/Satarkk bot
+t.me/Satarkk_bot
 
 
 ## Run it
